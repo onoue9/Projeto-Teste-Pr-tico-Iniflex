@@ -16,15 +16,3 @@ Apartir dessas classes, implementei diversas ações na Classe Principal onde ma
 * Twitter: [@wolfonoue](https://twitter.com/wolfonoue)
 * Github: [@onoue9](https://github.com/onoue9)
 * LinkedIn: [@filipeonoue](https://linkedin.com/in/filipeonoue)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/onoue9/portfolio/issues). You can also take a look at the [contributing guide](https://github.com/onoue9/portfolio/blob/master/CONTRIBUTING.md).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
-_
