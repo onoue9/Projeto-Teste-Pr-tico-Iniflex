@@ -2,7 +2,7 @@
 
 ## About
 
-Repositório do Projeto destinado ao Teste prátido da Iniflex.
+Repositório do Projeto destinado ao Teste prático da Iniflex.
 Nele desenvolvi um projeto em Java, onde considerei uma indústria que possui pessoas/funcionárias, e manipulei os dados relacionados a elas.
 Criei 2 Classes, uma Pessoa com 2 atributos, nome e data de nascimento, e uma Classe Funcionário que extende a Classe Pessoa e possui mais dois atributos, salário e função.
 Apartir dessas classes, implementei diversas ações na Classe Principal onde manipulava os dados fornecidos pela tabela abaixo.
